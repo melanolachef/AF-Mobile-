@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Controle de Remédios</string>
+    <string name="btn_add">Adicionar Medicamento</string>
+    <string name="hint_nome">Nome do Remédio</string>
+</resources>
