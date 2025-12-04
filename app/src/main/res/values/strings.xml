@@ -1,5 +1,19 @@
 <resources>
-    <string name="app_name">afmobile</string>
-    <string name="btn_add">Adicionar Medicamento</string>
-    <string name="hint_nome">Nome do Remédio</string>
+    <string name="app_name">Controle de Remédios</string>
+
+    <string name="titulo_lista">Meus Medicamentos</string>
+    <string name="desc_add">Adicionar novo medicamento</string>
+
+    <string name="titulo_novo">Novo Medicamento</string>
+    <string name="titulo_editar">Editar Medicamento</string>
+    <string name="hint_nome">Nome do Remédio (ex: Dipirona)</string>
+    <string name="hint_desc">Descrição (ex: Para febre)</string>
+    <string name="hint_hora">Horário (ex: 14:00)</string>
+    <string name="btn_salvar">Salvar Medicamento</string>
+    <string name="btn_atualizar">Atualizar Medicamento</string>
+
+    <string name="msg_salvo">Salvo com sucesso!</string>
+    <string name="msg_erro_hora">Horário inválido!</string>
+    <string name="notif_titulo">Hora do Remédio!</string>
+    <string name="notif_texto">Tomar: </string>
 </resources>

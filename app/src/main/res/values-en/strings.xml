@@ -1,5 +1,19 @@
 <resources>
-    <string name="app_name">Controle de Remédios</string>
-    <string name="btn_add">Adicionar Medicamento</string>
-    <string name="hint_nome">Nome do Remédio</string>
+    <string name="app_name">Medicine Control</string>
+
+    <string name="titulo_lista">My Medicines</string>
+    <string name="desc_add">Add new medicine</string>
+
+    <string name="titulo_novo">New Medicine</string>
+    <string name="titulo_editar">Edit Medicine</string>
+    <string name="hint_nome">Medicine Name (e.g. Aspirin)</string>
+    <string name="hint_desc">Description (e.g. For headache)</string>
+    <string name="hint_hora">Time (e.g. 14:00)</string>
+    <string name="btn_salvar">Save Medicine</string>
+    <string name="btn_atualizar">Update Medicine</string>
+
+    <string name="msg_salvo">Saved successfully!</string>
+    <string name="msg_erro_hora">Invalid time!</string>
+    <string name="notif_titulo">Medicine Time!</string>
+    <string name="notif_texto">Take: </string>
 </resources>

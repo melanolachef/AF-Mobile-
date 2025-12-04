@@ -17,6 +17,6 @@
         android:layout_alignParentEnd="true"
         android:layout_margin="16dp"
         android:src="@android:drawable/ic_input_add"
-        android:contentDescription="Adicionar"/>
+        android:contentDescription="@string/desc_add"/>
 
 </RelativeLayout>
